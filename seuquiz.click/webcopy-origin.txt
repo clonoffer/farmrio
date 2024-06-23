@@ -1,0 +1,136 @@
+Uri: https://c1.cdn1tp.net/ghelper/googletagmanager.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\ghelper\googletagmanager.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/css/all.min.css
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\css\all.min.css
+Content Type: text/css
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/css/style.css
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\css\style.css
+Content Type: text/css
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/disable-devtool
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\disable-devtool
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\fonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/bg__header--mob.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\bg__header--mob.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/farmrio-image1.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\farmrio-image1.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/farmrio-image2.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\farmrio-image2.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/farmrio-image3.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\farmrio-image3.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/farmrio-image4.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\farmrio-image4.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/favicon228.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\favicon228.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/logo-farm-rio-vertical-1024.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\logo-farm-rio-vertical-1024.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/presente.png
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\presente.png
+Content Type: image/png
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/images/Rosenbaum-Arquitetura-FarmRio-LeBon-Marche-Paris-FlaviaRibeiro-8-min.jpg
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\images\Rosenbaum-Arquitetura-FarmRio-LeBon-Marche-Paris-FlaviaRibeiro-8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/buttonCheck.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\buttonCheck.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/crypto-js.min.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\crypto-js.min.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/hideAllExcept.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\hideAllExcept.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/latest.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\latest.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/popup.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\popup.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/selectedCard.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\selectedCard.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/selectedResponse.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\selectedResponse.js
+Content Type: application/javascript
+
+Uri: https://c2.cdn1tp.net/7c8b165db7814f5fb47ad577c2b582e5/js/sendResponse.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\7c8b165db7814f5fb47ad577c2b582e5\js\sendResponse.js
+Content Type: application/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\seuquiz.click\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://seuquiz.click/quizfarmrio/
+File Name: C:\Downloaded Web Sites\seuquiz.click\quizfarmrio\index.htm
+Content Type: text/html
+
